@@ -1,0 +1,14 @@
+{
+    "avatar": "",
+    "bio": "",
+    "links": [
+        {
+            "title": "Email",
+            "url": "mailto:someone@example.com"
+        },
+        {
+            "title": "Signal (nhắn tin, gọi điện)",
+            "url": "https://signal.me/"
+        }
+    ]
+}
