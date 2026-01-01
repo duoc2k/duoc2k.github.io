@@ -1,0 +1,28 @@
+{
+    "avatar": "https://raw.githubusercontent.com/duoc2k/duoc2k.github.io/refs/heads/main/phuy.jpg",
+    "name": "Phuy Thành Được",
+    "bio": "Chuyên cung cấp phuy làm bè nuôi cá, bồn nước các loại",
+    "links": [
+        {
+            "title": "Sđt: 0987239618",
+            "url": "tel:0987239618"
+        },
+       {
+            "title": "Sđt: 0328095767",
+            "url": "tel:0328095767"
+        },
+        {
+            "title": "Zalo",
+            "url": "https://zalo.me/0987239618"
+        },
+        {
+            "title": "Zalo 2",
+            "url": "https://zalo.me/0328095767"
+        },
+        {
+            "title": "Fanpage Facebook",
+            "url": "https://www.facebook.com/PhuyThanhDuoc/"
+        }
+    ]
+
+}
