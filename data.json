@@ -1,15 +1,27 @@
 {
-    "avatar": "",
-    "bio": "Nhà Giao Dịch & Đầu Tư  Chứng Khoán và Cryptocurrency",
+    "avatar": "https://raw.githubusercontent.com/duoc2k/duoc2k.github.io/refs/heads/main/avt1.jpg",
+    "name": "Master Được",
+    "bio": "Nhà Đầu Tư Chứng Khoán và Cryptocurrency",
     "links": [
         {
-            "title": "Email",
-            "url": "mailto:someone@example.com"
+            "title": "Signal (nhắn tin, gọi điện)",
+            "url": "https://signal.me/#eu/m-jfyKMR358qi_hQOYDdyZuXof-UnjmmjEw5nt8WhP0oqHPDiQRHo4gPoCk49zKx"
         },
         {
-            "title": "Signal (nhắn tin, gọi điện)",
-            "url": "https://signal.me/"
+            "title": "Email: ***profile.d202m@passinbox.com***",
+            "url": "mailto:profile.d202m@passinbox.com"
+        },
+        {
+            "title": "Fanpage Facebook",
+            "url": "https://www.facebook.com/duocholdings"
+        },
+        {
+            "title": "Facebook",
+            "url": "https://www.facebook.com/masterduoc"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://www.tiktok.com/@duocholdings"
         }
     ]
-
 }
